@@ -16,10 +16,10 @@ _Cedula de identidad: 1 2345 6789_
 3. Actividad deportiva
 4. Fundamentos de Geografía
 
-**_Me gusta hacer ejercicio, en especial prÃ¡cticar el ciclismo e ir al gymnasio_**
+**_Me gusta hacer ejercicio, en especial prácticar el ciclismo e ir al gymnasio_**
 
-![fotografía de Byron](imagen.jpg)
+![fotografía de Byron](file:///C:/Users/C18272/Pictures/imagen.jpg)
 
 [Free Images](https://www.freeimages.com/)
-
+ 
 
