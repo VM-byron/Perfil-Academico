@@ -1,7 +1,17 @@
 # Perfil Académico de Byron Vargas Montero
 
-![Byron Vargas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmN4S1SA-8w-nPf9F3wLJl4Jv0XlKhZS-GwQ&usqp=CAU)
+![Byron Vargas](https://images.freeimages.com/images/small-previews/df0/images-1438722.jpg)
+
+### Datos de contacto:
+
+1. Estudiante de la Universidad de Costa Rica
+2. Egresado del colegio en el año 2019
+
+### Algunos cursos aprobados
+
+1. Cartorafia y tecnicas de campo
+2. Matem�tica para Geografía I y II
 
 
 
-*_Me gusta hacer ejercicio, en especial prácticar el ciclismo e ir al gymnasio_*
+**_Me gusta hacer ejercicio, en especial prácticar el ciclismo e ir al gymnasio_**
